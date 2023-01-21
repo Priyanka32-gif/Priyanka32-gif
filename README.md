@@ -26,6 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka32-gif&show_icons=true&locale=en" alt="priyanka32-gif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka32-gif&" alt="priyanka32-gif" /></p>
 
      
