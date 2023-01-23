@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka32-gif&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka32-gif&show_icons=true&locale=en" alt="priyanka32-gif"&theme = dark /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka32-gif&show_icons=true&locale=en" alt="priyanka32-gif"/></p>
 
 
 
