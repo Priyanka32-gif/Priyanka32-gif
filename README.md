@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyanka Regmi</h1>
-<h3 align="center">A passionate IT student from Nepal</h3>
+<h3 align="center">An ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka32-gif&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka32-gif" /> </p>
 
-- 🔭 I’m currently working on **data science projects**
+- 🔭 I’m currently working on **Dynamic Chatbot Projects**
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
-- 💬 Ask me about **python, data science, c++**
+- 💬 Ask me about **python, data science, LLMs, Langgraph, GenAI**
 
 - 📫 How to reach me **priyankaregmi527@gmail.com**
 
