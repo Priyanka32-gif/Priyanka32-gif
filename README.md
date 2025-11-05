@@ -42,21 +42,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 
-  <!-- Hugging Face -->
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Hugging_Face_logo.svg" alt="huggingface" width="40" height="40"/>
-  </a>
-
-  <!-- OpenAI -->
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
-  </a>
-
-  <!-- LangGraph -->
-  <a href="https://github.com/langgraph/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langgraph/langgraph/main/logo.png" alt="langgraph" width="40" height="40"/>
-  </a>
-
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
